@@ -5,8 +5,8 @@ body
 
 .wrapper {
         display: grid;
-    grid-gap: 0px;
-        grid-template-columns: repeat(4, [col] 80px ) ;
+    grid-gap: 120px;
+        grid-template-columns: repeat(4, [col] 100px ) ;
         grid-template-rows: repeat(3, [row] auto  );
         background-color: #fff;
         color: #444;
@@ -16,7 +16,7 @@ body
         background-color: #444;
         color: #fff;
         border-radius: 14px;
-        padding: 20px;
+        padding: 229px;
         font-size: 150%;
 
     }
