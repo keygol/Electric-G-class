@@ -1,4 +1,6 @@
-body {
+body     
+ text-shadow: 2px 2px #FF0000;
+ {
   margin: 40px;
 }
 
