@@ -5,7 +5,7 @@ body
 
 .wrapper {
         display: grid;
-    grid-gap: 120px;
+    grid-gap: 20px;
         grid-template-columns: repeat(4, [col] 100px ) ;
         grid-template-rows: repeat(3, [row] auto  );
         background-color: #fff;
