@@ -8,7 +8,7 @@ body
     grid-gap: 10px;
         grid-template-columns: repeat(4, [col] 100px ) ;
         grid-template-rows: repeat(3, [row] auto  );
-        background-color: #fff;
+        background-color: #5b582c;
         color: #444;
     }
 
