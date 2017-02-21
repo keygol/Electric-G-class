@@ -19,7 +19,7 @@
 	height: 39px;
 	background-repeat: no-repeat;
 }
-.home a {background-image: url(/rollover01.gif);}
+.home a {background-image: url("http://www.kreiselelectric.com/wordpress/wp-content/uploads/2017/01/2017-01-18-Kreisel-Electric-Mercedes-G_009.jpg"alt="HTML5 Icon"width="100"height="100"/rollover01.gif);}
 .home a {background-image: url(images/rollover01a.gif);}
 .about a {background-image: url(images/rollover02.gif);}
 .about a {background-image: url(images/rollover02a.gif);}
