@@ -19,13 +19,13 @@
 	height: 39px;
 	background-repeat: no-repeat;
 }
-.home {background-image: url(images/rollover01.gif);}
+.home a {background-image: url(/rollover01.gif);}
 .home a {background-image: url(images/rollover01a.gif);}
-.about {background-image: url(images/rollover02.gif);}
+.about a {background-image: url(images/rollover02.gif);}
 .about a {background-image: url(images/rollover02a.gif);}
-.services {background-image: url(images/rollover03.gif);}
+.services a {background-image: url(images/rollover03.gif);}
 .services a {background-image: url(images/rollover03a.gif);}
-.contact {background-image: url(images/rollover04.gif);}
+.contact a 	{background-image: url(images/rollover04.gif);}
 .contact a {background-image: url(images/rollover04a.gif);}
 ul.menu li a:hover {background: none;} 
 
