@@ -44,11 +44,6 @@ body
     }
 
 
-
-
-
-
-
 div.scrollmenu {
     background-color: #333;
     overflow: auto;
@@ -58,7 +53,7 @@ div.scrollmenu {
 div.scrollmenu a {
     display: inline-block;
     color: white;
-    text-align: center;
+    text-align: right;
     padding: 100px;
     text-decoration: none;
 }
