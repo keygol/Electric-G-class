@@ -1,6 +1,6 @@
 body     
  {
-  margin: 40px;
+  margin: 400px;
 }
 
 .wrapper {
@@ -16,7 +16,7 @@ body
         background-color: #444;
         color: #fff;
         border-radius: 5px;
-        padding: 20px;
+        padding: 200px;
         font-size: 150%;
 
     }
