@@ -53,7 +53,7 @@ div.scrollmenu {
 div.scrollmenu a {
     display: inline-block;
     color: white;
-    text-align: bottom;
+    text-align: center;
     padding: 100px;
     text-decoration: none;
 }
