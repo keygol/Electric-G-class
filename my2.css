@@ -36,7 +36,7 @@ body
     .d {
         grid-column: col 2 / span 3 ;
         grid-row: row 2 ;
-    }
+    } 
 
     .e {
         grid-column: col / span 4;
