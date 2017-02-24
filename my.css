@@ -81,7 +81,10 @@ div.scrollmenu a:hover {
 </div>   
 
 
-<img src="image.gif" align="left" width="300" height="200">
+body {
+    background-image: url(""), url("");
+    background-color: #cccccc;
+}   
 
 
 
