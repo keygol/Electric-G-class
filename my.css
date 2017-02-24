@@ -60,7 +60,8 @@ div.scrollmenu a {
 
 div.scrollmenu a:hover {
     background-color: #777;
-}
+ 
+} background-image: url(""), url("");
 
 <div class="scrollmenu">
   <a href="#home">Home</a>
@@ -79,12 +80,6 @@ div.scrollmenu a:hover {
   <a href="#people">People</a>
   <a href="#work">Work</a>
 </div>   
-
-
-body {
-    background-image: url(""), url("");
-    background-color: #cccccc;
-}   
 
 
 
