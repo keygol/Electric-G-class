@@ -1,4 +1,7 @@
-body     
+body  
+
+
+
  {
   margin: 40px;
 }
@@ -39,6 +42,7 @@ body
     }
 
     .e {
+
         grid-column: col / span 4;
         grid-row: row 3; 
     }
@@ -60,8 +64,9 @@ div.scrollmenu a {
 
 div.scrollmenu a:hover {
     background-color: #777;
- 
-}
+   
+} background-image: url("");
+    background-color: #cccccc;
 
 <div class="scrollmenu">
   <a href="#home">Home</a>
